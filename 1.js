@@ -1,1 +1,1 @@
-var link = "https://geralextrade.club/fj5fX7/";
+var link = "https://tff-quiz.ru/";
