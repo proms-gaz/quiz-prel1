@@ -1,1 +1,1 @@
-var link = "https://tincoff.live/W3m4mF/";
+var link = "https://tincoff.xyz/b3rWv1/";
