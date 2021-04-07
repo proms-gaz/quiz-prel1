@@ -1,1 +1,1 @@
-var link = "https://prombank.space/g3SN6t/";
+var link = "https://prombank.me/DD8GhH/";
